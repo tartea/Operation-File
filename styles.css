@@ -1,0 +1,28 @@
+:root {
+    --font-hide-color: green;
+}
+/*
+隐藏文件
+*/
+.obsidian-hide-file{
+    display: none;
+}
+
+
+/*
+浅色
+*/
+.obsidian-light-file{
+    opacity: 0.2;
+}
+
+
+
+.custom-file-flex{
+    display: flex;
+}
+.custom-file-settings-icon{
+    height: 20px;
+    margin-right: 0.5rem;
+    transform: translateY(2px);
+}
